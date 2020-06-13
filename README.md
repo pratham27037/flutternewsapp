@@ -1,4 +1,4 @@
-# flutternews
+# flutternewsapp
 
 A new Flutter application.
 
